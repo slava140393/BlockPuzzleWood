@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b553ca266264274083baaa431e71104, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  BoardConfig: {fileID: 11400000, guid: 32a9790679ec8254c94444cc3f7bd259, type: 2}
+  InitKeysCount: 7
+  InitRotateBadgesCount: 7
